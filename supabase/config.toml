@@ -1,0 +1,7 @@
+project_id = "wpgqvtiydikwgodbixiw"
+
+[functions.createPix]
+verify_jwt = false
+
+[functions.webhookPix]
+verify_jwt = false
